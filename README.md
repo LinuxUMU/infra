@@ -1,4 +1,4 @@
-# ifnra
+# infra
 
 Infraestructura de LinuxUMU: bitácora y fuente de verdad
 
